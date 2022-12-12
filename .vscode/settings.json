@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "complex": "cpp",
+        "cmath": "cpp",
+        "sstream": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}

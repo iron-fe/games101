@@ -1,0 +1,3 @@
+/Users/iron/Documents/workspace/GAMES101_Homework_S2021/Homework1/Assignment1/build/CMakeFiles/Rasterizer.dir
+/Users/iron/Documents/workspace/GAMES101_Homework_S2021/Homework1/Assignment1/build/CMakeFiles/edit_cache.dir
+/Users/iron/Documents/workspace/GAMES101_Homework_S2021/Homework1/Assignment1/build/CMakeFiles/rebuild_cache.dir
